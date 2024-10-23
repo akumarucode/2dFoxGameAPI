@@ -1,0 +1,6 @@
+@_2dFoxGameAPI_HostAddress = http://localhost:5213
+
+GET {{_2dFoxGameAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
