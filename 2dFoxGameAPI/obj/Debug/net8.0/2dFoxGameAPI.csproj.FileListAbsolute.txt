@@ -36,3 +36,4 @@ C:\Users\pc\source\repos\2dFoxGameAPI\2dFoxGameAPI\obj\Debug\net8.0\refint\2dFox
 C:\Users\pc\source\repos\2dFoxGameAPI\2dFoxGameAPI\obj\Debug\net8.0\2dFoxGameAPI.pdb
 C:\Users\pc\source\repos\2dFoxGameAPI\2dFoxGameAPI\obj\Debug\net8.0\2dFoxGameAPI.genruntimeconfig.cache
 C:\Users\pc\source\repos\2dFoxGameAPI\2dFoxGameAPI\obj\Debug\net8.0\ref\2dFoxGameAPI.dll
+C:\Users\pc\source\repos\2dFoxGameAPI\2dFoxGameAPI\obj\Debug\net8.0\2dFoxGameAPI.sourcelink.json

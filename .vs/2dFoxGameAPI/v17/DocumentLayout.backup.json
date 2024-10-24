@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\2dFoxGameAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B9DFC9DC-E63D-4E37-81E1-F63FE2334F58}|2dFoxGameAPI\\2dFoxGameAPI.csproj|c:\\users\\pc\\source\\repos\\2dfoxgameapi\\2dfoxgameapi\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DFC9DC-E63D-4E37-81E1-F63FE2334F58}|2dFoxGameAPI\\2dFoxGameAPI.csproj|solutionrelative:2dfoxgameapi\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B9DFC9DC-E63D-4E37-81E1-F63FE2334F58}|2dFoxGameAPI\\2dFoxGameAPI.csproj|c:\\users\\pc\\source\\repos\\2dfoxgameapi\\2dfoxgameapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9DFC9DC-E63D-4E37-81E1-F63FE2334F58}|2dFoxGameAPI\\2dFoxGameAPI.csproj|solutionrelative:2dfoxgameapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,32 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\2dFoxGameAPI\\2dFoxGameAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "2dFoxGameAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\2dFoxGameAPI\\2dFoxGameAPI\\appsettings.json",
-              "RelativeToolTip": "2dFoxGameAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-23T13:10:24.956Z",
+              "DocumentIndex": 0,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\2dFoxGameAPI\\2dFoxGameAPI\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "2dFoxGameAPI\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\2dFoxGameAPI\\2dFoxGameAPI\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "2dFoxGameAPI\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvyYAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:58:18.818Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\2dFoxGameAPI\\2dFoxGameAPI\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "2dFoxGameAPI\\Controllers\\LoginController.cs",
               "ToolTip": "C:\\Users\\pc\\source\\repos\\2dFoxGameAPI\\2dFoxGameAPI\\Controllers\\LoginController.cs",
               "RelativeToolTip": "2dFoxGameAPI\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA1wBQAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwB4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T12:58:24.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\2dFoxGameAPI\\2dFoxGameAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "2dFoxGameAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\2dFoxGameAPI\\2dFoxGameAPI\\appsettings.json",
+              "RelativeToolTip": "2dFoxGameAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T13:10:24.956Z",
               "EditorCaption": ""
             }
           ]

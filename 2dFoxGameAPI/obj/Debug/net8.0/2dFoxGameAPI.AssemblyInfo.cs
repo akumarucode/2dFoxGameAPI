@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2dFoxGameAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+851958edda91b181233ad45b13c9b04ddf82ad08")]
 [assembly: System.Reflection.AssemblyProductAttribute("2dFoxGameAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2dFoxGameAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
